@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 # 🌐 Socials:
 
 # 💻 Tech Stack:
-Python Shell Script
+[Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
