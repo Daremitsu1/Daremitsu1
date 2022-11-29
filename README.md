@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 
 # Github Stats:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Daremitsu1)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daremitsu1)
