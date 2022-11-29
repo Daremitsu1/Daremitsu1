@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 # 🌐 Socials:
 
 # 💻 Tech Stack:
+Python Shell Script
