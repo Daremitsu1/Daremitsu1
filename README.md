@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 # Github Stats:
-![My Stats](https://github-readme-stats.vercel.app/api?username=Daremitsu1)](https://github.com/Daremitsu1/github-readme-stats)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Daremitsu1)
