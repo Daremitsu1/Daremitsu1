@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Daremitsu1)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daremitsu1&theme=vue)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daremitsu1)
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daremitsu1&layout=compact)
 
 # 🏆 GitHub Trophies
