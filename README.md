@@ -49,3 +49,6 @@ Here are some ideas to get you started:
 
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Daremitsu1)
+
+#
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Daremitsu1}1212%2Fhit-counter)
