@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VM](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-# Github Stats:
+# 📊 Github Stats:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Daremitsu1)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daremitsu1&theme=vue)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daremitsu1)
