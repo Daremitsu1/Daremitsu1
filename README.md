@@ -1,10 +1,6 @@
 # 💫 About Me:
 
-#### Hi there 👋
-
-**Daremitsu1/Daremitsu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### Hi there 👋, its me, Aviparna!
 
 - 🔭 I’m currently working/managing data science related projects
 - 🌱 I’m currently learning ML libraries
