@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-#### Hi there 👋, its me, Aviparna!
+#### Hi there 👋, 
+#### its me, Aviparna!
 
 - 🔭 I’m currently working/managing data science related projects
 - 🌱 I’m currently learning ML libraries
