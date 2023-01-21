@@ -45,7 +45,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VM](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-v2.7.3-yellow.svg)](https://hadoop.apache.org/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-v2.7.3-blue.svg)](https://hadoop.apache.org/)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 # 📊 Github Stats:
