@@ -50,10 +50,10 @@
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 # 📊 Github Stats:
-![My Stats](https://github-readme-stats.vercel.app/api?username=Daremitsu1)
+![My Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daremitsu1)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daremitsu1&theme=vue)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daremitsu1)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daremitsu1&layout=compact)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daremitsu1&layout=compact)
 
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Daremitsu1)
